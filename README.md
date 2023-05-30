@@ -1,37 +1,23 @@
+<h1 align="center">Hi 👋, I'm Chinthaparthi Govardhan Reddy</h1>
+<h3 align="center">A Civil Engineer, A contractor, An Architecture from India</h3>
 
-# Hey Everyone! I'm [Chinthaparthi Govardhan Reddy](https://github.com/govardhanreddy1995) <img src="https://github.com/govardhanreddy1995/govardhanreddy1995/blob/master/Hi.gif" width="25px">
-<br><br>
+- 🔭 I’m currently working on **Google**
 
-<a href="https://www.linkedin.com/in/chinthaparthi-govardhan-reddy-207ba2108/ ">
-  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/govardhanreddy1995/">
-  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/cgopibtech/">
-  <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/@govardhanreddychinthaparth4110/featured">
-  <img align="left" alt="akd's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
-</a>
+- 🌱 I’m currently learning **Python**
 
-<br><br>
+- 👯 I’m looking to collaborate on **Youtube**
 
+- 💬 Ask me about **Architecture Drawings**
 
-## <p align="center"><h4 align="center"><samp> A Civil Engineer,Contractor,Architecture </samp></h4></p>
+- 📫 How to reach me **cgopibtech@gmail.com**
 
-<div>
-<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
-  <br>
-  
-- 🔭 I’m currently working on GOOGLE
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on Youtube
-- 💬 Ask me about Architecture Drawings
-- 📫 How to reach me: cgreddy.1995@gmail.com
-  <br>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/chinthaparthi-govardhan-reddy-207ba2108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinthaparthi-govardhan-reddy-207ba2108" height="30" width="40" /></a>
+<a href="https://fb.com/cgreddy.1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cgreddy.1995" height="30" width="40" /></a>
+<a href="https://instagram.com/cgopibtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cgopibtech" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@govardhanreddychinthaparth4110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@govardhanreddychinthaparth4110" height="30" width="40" /></a>
+</p>
 
-
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
