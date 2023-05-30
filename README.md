@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/chinthaparthi-govardhan-reddy-207ba2108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinthaparthi-govardhan-reddy-207ba2108" height="30" width="40" /></a>
 <a href="https://fb.com/cgreddy.1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cgreddy.1995" height="30" width="40" /></a>
 <a href="https://instagram.com/cgopibtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cgopibtech" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@govardhanreddychinthaparth4110/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@govardhanreddychinthaparth4110/featured" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@govardhanreddychinthaparth4110/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@govardhanreddychinthaparth4110/featured" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
