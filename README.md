@@ -1,5 +1,5 @@
 
-# Hey Everyone! I'm [Chinthaoarthi Govardhan Reddy](https://github.com/govardhanreddy1995) <img src="https://github.com/govardhanreddy1995/govardhanreddy1995/blob/master/Hi.gif" width="25px">
+# Hey Everyone! I'm [Chinthaparthi Govardhan Reddy](https://github.com/govardhanreddy1995) <img src="https://github.com/govardhanreddy1995/govardhanreddy1995/blob/master/Hi.gif" width="25px">
 <br><br>
 
 <a href="https://www.linkedin.com/in/chinthaparthi-govardhan-reddy-207ba2108/ ">
