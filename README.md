@@ -15,7 +15,7 @@
   <img align="left" alt="akd's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
 <a href="(https://www.facebook.com/cgreddy.1995/)">
-  <img align="left" alt="akd's Youtube" width="100px" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Facebook.svg/266px-Facebook.svg.png" />
+  <img align="left" alt="akd's Youtube" width="100px" src="https://en.wikipedia.org/wiki/Facebook#/media/File:Facebook_Logo_(2019).svg" />
 </a>
 
 <br><br>
