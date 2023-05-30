@@ -11,7 +11,7 @@
 <a href="https://www.instagram.com/cgopibtech/">
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.youtube.com/channel/UC3Qe9c8dZqnjwcDD2vCZBKQ">
+<a href="https://www.youtube.com/@govardhanreddychinthaparth4110/featured">
   <img align="left" alt="akd's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
 <a href="(https://www.facebook.com/cgreddy.1995/)">
