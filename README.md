@@ -14,9 +14,6 @@
 <a href="https://www.youtube.com/@govardhanreddychinthaparth4110/featured">
   <img align="left" alt="akd's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
-<a href="(https://www.facebook.com/cgreddy.1995/)">
-  <img align="left" alt="akd's Youtube" width="100px" src="https://en.wikipedia.org/wiki/Facebook#/media/File:Facebook_Logo_(2019).svg" />
-</a>
 
 <br><br>
 
